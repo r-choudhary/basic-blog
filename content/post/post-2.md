@@ -9,7 +9,7 @@ tags = [
 date = 2020-04-30
 +++
 
-![Unsplash Image](https://source.unsplash.com/600x400/?smile,male "Unsplash Image")
+![Unsplash Image](https://source.unsplash.com/600x400/?working,macbook "Unsplash Image")
 
 This is perhaps the biggest "bug" in my thinking pattern.
 
