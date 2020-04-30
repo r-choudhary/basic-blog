@@ -39,25 +39,26 @@
               {{ range where $posts "Title" "!=" .Title }}
                 <li class="list pl0 lh-copy">
                   <a
-                    class="f4 b dib black no-underline"
-                    href="{{ .Permalink}}"
-                    >{{ .Title }}</a
+                  class="f4 b dib black no-underline"
+                  href="{{ .Permalink}}"
+                  >{{ .Title }}</a
                   >
                   <span class="f6 gray">{{ .Date.Format "January 2, 2006" }}</span>
                 </li>
+                {{ end }}
+              </ul>  
+              {{ else }}
+              <div class="ph2 i">
+                No follow up posts yet. Check back soon!
+              </div>    
               {{ end }}
-            </ul>  
-          {{ else }}
-            <div class="ph2 i">
-              No follow up posts yet. Check back soon!
-            </div>    
+            </section>
             {{ end }}
-          </section>
-          {{ end }}
+            {{ partial "utterances.html" . }}
           
-          {{ partial "utterances.html" . }}
+         
   </section>
-
   {{ partial "footer.html" . }}
   </body>
+
 </html>
