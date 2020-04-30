@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-155046119-4"
 enableEmoji = true 
-copyright = "© 2020 <a href='https://github.com/r-choudhary'>GitHub</a>. <a href='https://twitter.com/_rchoudhary'>@_rchoudhary</a>."
+copyright = "© 2020 RahulC.me | <a href='https://github.com/r-choudhary'>GitHub</a> | <a href='https://twitter.com/_rchoudhary'>@_rchoudhary</a>"
 description = "Full-stack web developer based in India."
 
 [taxonomies]

@@ -21,7 +21,7 @@ I've always appreciated the fundamental idea coding boot camps are based upon, t
 
 Basically what these Income Share Agreement (ISA) based institutions are doing -- aligning the learner needs with their own. Such that both of them are incentivized to do their best.
 
-All this feels too good to be true, to break into tech, I have joined one such coding boot camp/learning platform called [AttainU](attainu.com). 
+All this feels too good to be true, to break into tech, I have re-joined one such coding boot camp/learning platform called [AttainU](attainu.com). 
 
 ## 🚀 How?
 
