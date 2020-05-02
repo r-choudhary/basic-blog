@@ -1,6 +1,6 @@
 +++
 title = "The Road To Nowhere"
-series = "Daily Brain Dump"
+series = "Brain Dump"
 tags = [
     "personal",
     "non-tech",
